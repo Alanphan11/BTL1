@@ -1,4 +1,11 @@
-Đây là Bài tập lớn 1 môn Mạng máy tính (HCMUT - CO3093)
-Bài tập lớn này yêu cầu sinh viên implement lại một phần mềm BitTorrent nhằm chuyển dữ liệu cho các người dùng khác (peer).
-Đánh giá: Bài tập lớn này khá khó và đòi hỏi rất cao. Để được 10đ cho bài này yêu cầu sinh viên phải handle được nhiều trường hợp (như tắt peer lúc đang tải, sau đó tải tiếp khi request lại)
-Điểm (Đánh giá bởi thầy Thìn): 8.5
+## Computer Networks - Major Assignment 1 (HCMUT - CO3093)
+
+### Overview
+This assignment requires students to implement a BitTorrent-like software that enables data transfer between peers.
+
+### Evaluation
+The assignment is quite challenging and demands a high level of implementation. To achieve a perfect score of 10, students must handle multiple edge cases, such as:
+- Resuming downloads after a peer unexpectedly disconnects.
+- Managing requests efficiently when a peer reconnects.
+
+### Score: 8.5**
